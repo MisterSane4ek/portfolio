@@ -1,0 +1,45 @@
+body {
+    font-family: cursive;
+}
+
+footer a {
+    margin: 10px 15px 10px 15px;
+}
+
+li {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.link-text {
+    color: blue;
+    text-decoration: none;
+}
+
+.link-header {
+    color: blue;
+    text-decoration: none;
+}
+
+.link-text:visited {
+    color: blueviolet;
+}
+
+.link-header:visited {
+    color: blueviolet;
+}
+
+.link-text:hover {
+    opacity: 0.55;
+}
+
+.link-header:hover {
+    opacity: 0.55;
+}
+
+main p {
+    font-size: large;
+}
